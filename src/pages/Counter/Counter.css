@@ -1,0 +1,16 @@
+.counter-container {
+    border: 1px solid;
+    padding-bottom: -100px;
+    border-radius: 0.5rem;  
+    margin: 0 0 0.5rem 0; 
+    background-color:lightgray;
+    text-align: center;
+    
+}
+
+.counter-title {
+    color: blueviolet;
+}
+
+
+
